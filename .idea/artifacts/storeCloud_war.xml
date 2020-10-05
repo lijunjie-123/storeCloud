@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="storeCloud:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="storeCloud.war">
+      <element id="artifact" artifact-name="storeCloud:war exploded" />
+    </root>
+  </artifact>
+</component>

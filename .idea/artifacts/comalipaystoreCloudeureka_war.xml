@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="comalipaystoreCloudeureka:war">
+    <output-path>$PROJECT_DIR$/comalipaystoreCloudeureka/target</output-path>
+    <root id="archive" name="com.alipay.storeCloud.eureka.war">
+      <element id="artifact" artifact-name="comalipaystoreCloudeureka:war exploded" />
+    </root>
+  </artifact>
+</component>

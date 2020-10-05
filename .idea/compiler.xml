@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="comalipaystoreCloudconsumer" />
+        <module name="comalipaystoreCloudeureka" />
+        <module name="storeCloudapi" />
+        <module name="storeCloudconsumerdept" />
+        <module name="storeCloudEureka7001" />
+        <module name="storeCloudEureka7002" />
+        <module name="storeCloudEureka7003" />
+        <module name="storeCloudproviderdept" />
+        <module name="storeCloudPrviderDept8003" />
+        <module name="storeCloudPrviderDept8004" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="comalipaystoreCloudconsumer" target="1.7" />
+      <module name="comalipaystoreCloudeureka" target="1.7" />
+      <module name="storeCloud" target="1.7" />
+      <module name="storeCloudapi" target="1.7" />
+      <module name="storeCloudconsumerdept" target="1.7" />
+      <module name="storeCloudEureka" target="1.7" />
+      <module name="storeCloudEureka7001" target="1.7" />
+      <module name="storeCloudEureka7002" target="1.7" />
+      <module name="storeCloudEureka7003" target="1.7" />
+      <module name="storeCloudproviderdept" target="1.7" />
+      <module name="storeCloudPrviderDept8003" target="1.7" />
+      <module name="storeCloudPrviderDept8004" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/storeCloud.iml" filepath="$PROJECT_DIR$/storeCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storeCloudEureka7001/storeCloudEureka7001.iml" filepath="$PROJECT_DIR$/storeCloudEureka7001/storeCloudEureka7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storeCloudEureka7002/storeCloudEureka7002.iml" filepath="$PROJECT_DIR$/storeCloudEureka7002/storeCloudEureka7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storeCloudEureka7003/storeCloudEureka7003.iml" filepath="$PROJECT_DIR$/storeCloudEureka7003/storeCloudEureka7003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storeCloudPrviderDept8003/storeCloudPrviderDept8003.iml" filepath="$PROJECT_DIR$/storeCloudPrviderDept8003/storeCloudPrviderDept8003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storeCloudPrviderDept8004/storeCloudPrviderDept8004.iml" filepath="$PROJECT_DIR$/storeCloudPrviderDept8004/storeCloudPrviderDept8004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storeCloudapi/storeCloudapi.iml" filepath="$PROJECT_DIR$/storeCloudapi/storeCloudapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storeCloudconsumerdept/storeCloudconsumerdept.iml" filepath="$PROJECT_DIR$/storeCloudconsumerdept/storeCloudconsumerdept.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storeCloudproviderdept/storeCloudproviderdept.iml" filepath="$PROJECT_DIR$/storeCloudproviderdept/storeCloudproviderdept.iml" />
+    </modules>
+  </component>
+</project>

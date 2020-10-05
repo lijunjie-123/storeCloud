@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="storeCloudEureka:war">
+    <output-path>$PROJECT_DIR$/storeCloudEureka/target</output-path>
+    <root id="archive" name="storeCloudEureka.war">
+      <element id="artifact" artifact-name="storeCloudEureka:war exploded" />
+    </root>
+  </artifact>
+</component>
