@@ -36,4 +36,10 @@ public class DeptServiceImpl implements DeptSerivce {
     public List<Dept> list() throws Exception {
         return deptDao.findAll();
     }
+
+    @Override
+    public int deleteById(String id) {
+        deptDao.deleteById(id);
+        return 1;
+    }
 }

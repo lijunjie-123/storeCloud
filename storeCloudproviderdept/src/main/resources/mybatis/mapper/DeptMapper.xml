@@ -18,7 +18,9 @@
     <insert id="addDept" parameterType="system.dept.model.Dept" >
         insert into dept (id, name, db_source)values (#{id,jdbcType=VARCHAR}, #{name,jdbcType=VARCHAR}, #{dbSource,jdbcType=VARCHAR})
     </insert>
-
-
+    <delete id="deleteById" parameterType="java.lang.String" >
+        delete from dept
+        where id = #{id,jdbcType=VARCHAR}
+    </delete>
 
 </mapper>

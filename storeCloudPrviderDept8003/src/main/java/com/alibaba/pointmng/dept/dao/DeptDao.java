@@ -19,4 +19,6 @@ public interface DeptDao {
 
     //查询所有
     public List<Dept> findAll()throws Exception;
+
+    public void deleteById(String id);
 }

@@ -65,4 +65,10 @@ public class DeptController {
       return deptSerivceImpl.list();
      }
 
+
+    @RequestMapping(value = "/delete/{id}", method = RequestMethod.GET)
+    public int delete(@PathVariable("id") String id) throws Exception {
+        return deptSerivceImpl.deleteById(id);
+    }
+
 }

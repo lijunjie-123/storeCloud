@@ -18,4 +18,6 @@ public interface DeptSerivce {
 
 
     public List<Dept> list()throws Exception;
+
+    public int deleteById(String id);
 }
