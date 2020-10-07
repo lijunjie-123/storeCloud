@@ -9,26 +9,9 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.alipay.storeCloud</groupId>
-    <artifactId>storeCloud-api</artifactId>
-
-
-    <dependencies><!-- 当前Module需要用到的jar包,会自己根据需求添加,如果父类 已经包含了,可以不用写版本号 -->
-        <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
-        <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-            <version>1.18.8</version>
-            <scope>provided</scope>
-        </dependency>
-
-        <!-- https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-starter-feign -->
-        <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-feign</artifactId>
-            <version>1.4.4.RELEASE</version>
-        </dependency>
-
+    <groupId>storeCloudConsumerDeptFeign</groupId>
+    <artifactId>storeCloudConsumerDeptFeign</artifactId>
+    <dependencies>
         <!--引入自定义的api通用包,就可以使用部门Entity的实体类了 -->
         <dependency>
             <groupId>com.alipay.storeCloud</groupId>
@@ -135,7 +118,13 @@
             <version>1.3.0.RELEASE</version>
         </dependency>
 
-
+        <!-- https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-starter-feign -->
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-feign</artifactId>
+            <version>1.3.1.RELEASE</version>
+        </dependency>
 
     </dependencies>
+
 </project>

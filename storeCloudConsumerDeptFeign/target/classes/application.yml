@@ -1,0 +1,8 @@
+server:
+  port: 8664
+
+eureka:
+  client:
+    register-with-eureka: false #是否将自身注册到注册中心
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka/,http://eureka7002.com:7002/eureka/,http://eureka7003.com:7003/eureka

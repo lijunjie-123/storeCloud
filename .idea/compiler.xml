@@ -11,6 +11,7 @@
         <module name="comalipaystoreCloudeureka" />
         <module name="storeCloudapi" />
         <module name="storeCloudconsumerdept" />
+        <module name="storeCloudConsumerDeptFeign" />
         <module name="storeCloudEureka7001" />
         <module name="storeCloudEureka7002" />
         <module name="storeCloudEureka7003" />
@@ -25,6 +26,7 @@
       <module name="storeCloud" target="1.7" />
       <module name="storeCloudapi" target="1.7" />
       <module name="storeCloudconsumerdept" target="1.7" />
+      <module name="storeCloudConsumerDeptFeign" target="1.7" />
       <module name="storeCloudEureka" target="1.7" />
       <module name="storeCloudEureka7001" target="1.7" />
       <module name="storeCloudEureka7002" target="1.7" />

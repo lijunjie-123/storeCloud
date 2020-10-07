@@ -16,6 +16,7 @@
         <module>storeCloudEureka7003</module>
         <module>storeCloudPrviderDept8003</module>
         <module>storeCloudPrviderDept8004</module>
+        <module>storeCloudConsumerDeptFeign</module>
     </modules>
     <packaging>pom</packaging>
 

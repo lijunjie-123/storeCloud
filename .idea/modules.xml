@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/storeCloud.iml" filepath="$PROJECT_DIR$/storeCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storeCloudConsumerDeptFeign/storeCloudConsumerDeptFeign.iml" filepath="$PROJECT_DIR$/storeCloudConsumerDeptFeign/storeCloudConsumerDeptFeign.iml" />
       <module fileurl="file://$PROJECT_DIR$/storeCloudEureka7001/storeCloudEureka7001.iml" filepath="$PROJECT_DIR$/storeCloudEureka7001/storeCloudEureka7001.iml" />
       <module fileurl="file://$PROJECT_DIR$/storeCloudEureka7002/storeCloudEureka7002.iml" filepath="$PROJECT_DIR$/storeCloudEureka7002/storeCloudEureka7002.iml" />
       <module fileurl="file://$PROJECT_DIR$/storeCloudEureka7003/storeCloudEureka7003.iml" filepath="$PROJECT_DIR$/storeCloudEureka7003/storeCloudEureka7003.iml" />
